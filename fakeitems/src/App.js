@@ -9,6 +9,7 @@ function App() {
       <section>
         <Product name="bangles" price="300"/>
         <Product name="earrings" price="100"/>
+        <Product name="chains" price="500" />
         <Product name="rings" price="200" />
       </section>
     </div>
