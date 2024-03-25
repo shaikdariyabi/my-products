@@ -7,9 +7,9 @@ function App() {
       <h4>Products</h4>
 
       <section>
-        <Product name="bangles"/>
-        <Product name="earrings" />
-        <Product name="rings" />
+        <Product name="bangles" price="300"/>
+        <Product name="earrings" price="100"/>
+        <Product name="rings" price="200" />
       </section>
     </div>
   );
